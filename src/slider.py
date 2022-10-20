@@ -11,4 +11,4 @@ demo = gr.Interface(
 	inputs=["text", "checkbox", gr.Slider(0, 100)],
 	outputs=["text", "number"],
 )
-demo.launch()
+demo.launch(server_name="0.0.0.0")
