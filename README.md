@@ -1,7 +1,7 @@
 # Gradio-templates
 Basic templates based on [Gradio](http://gradio.app/ "Gradio"). 
 
-This template helps image-edge-computing developers to easily start an INPUT-PROCESS-OUTPUT project.
+This template helps *image edge computing* developers to easily start an INPUT-PROCESS-OUTPUT project.
 
 ![example output snapshot](/static/ss1.png)
 
