@@ -1,5 +1,7 @@
 # Gradio-templates
-Basic templates based on [Gradio](http://gradio.app/ "Gradio"). 
+Basic templates based on [Gradio](https://gradio.app/ "Gradio").
+
+Example of basic implementations: [Gradimio](https://github.com/geeksloth/gradimio), [Gradimio-RemBG](https://github.com/geeksloth/gradimio-rembg)
 
 This template helps *image edge computing* developers to easily start an INPUT-PROCESS-OUTPUT project.
 
@@ -35,5 +37,5 @@ try to upload an image, you'll get the returned output from *the script* as the 
 ## What should do next?
 - Try to modify the ```src/image.py``` as your desire.
 - Run other ```src/xxx.py``` by stop the container and modify the ```docker-compose.yml``` file, and re-run the *docker compose* 
-- This templates use [Gradio](http://gradio.app/ "Gradio"). 
-If you want to go deeper, you can visit their official website [here](http://gradio.app/ "Gradio")
+- This templates use [Gradio](https://gradio.app/ "Gradio"). 
+If you want to go deeper, you can visit their official website [here](https://gradio.app/docs/ "Gradio")
