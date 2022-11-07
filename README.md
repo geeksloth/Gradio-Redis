@@ -34,6 +34,6 @@ try to upload an image, you'll get the returned output from *the script* as the 
 
 ## What should do next?
 - Try to modify the ```src/image.py``` as your desire.
-- Run other *src/xxx.py* by stop the container and modify the ```docker-compose.yml``` file, and re-run the *docker compose* 
+- Run other ```src/xxx.py``` by stop the container and modify the ```docker-compose.yml``` file, and re-run the *docker compose* 
 - This templates use [Gradio](http://gradio.app/ "Gradio"). 
 If you want to go deeper, you can visit their official website [here](http://gradio.app/ "Gradio")
